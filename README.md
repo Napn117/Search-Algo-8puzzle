@@ -1,6 +1,6 @@
 # 8-Puzzle Solver
 
-## Overview
+## 📌 Overview
 This C++ program solves the 8-puzzle problem using two search algorithms:
 - **Uniform Cost Search (UCS)**
 - **A\* Search** with two heuristics:
