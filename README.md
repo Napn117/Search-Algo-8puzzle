@@ -36,6 +36,7 @@ Two heuristics used:
 - C++17 compatible compiler (e.g. g++ 13.2 or later)
 - Provided startup framework and `AnimateSolution()` support
 
-### To Compile
+# To Compile and Run
 ```bash
-g++ -std=c++17 -O2 main.cpp -o puzzle_solver
+make
+main.exe
